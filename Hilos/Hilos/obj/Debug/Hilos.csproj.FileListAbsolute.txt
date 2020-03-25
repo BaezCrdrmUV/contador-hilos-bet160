@@ -1,0 +1,14 @@
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\bin\Debug\Hilos.exe
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos.csprojAssemblyReference.cache
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\MainWindow.g.cs
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\App.g.cs
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos_MarkupCompile.cache
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos_MarkupCompile.lref
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\MainWindow.baml
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos.g.resources
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos.Properties.Resources.resources
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos.csproj.GenerateResource.cache
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos.exe
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\Hilos\Hilos\obj\Debug\Hilos.pdb
